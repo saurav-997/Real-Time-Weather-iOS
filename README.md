@@ -8,10 +8,11 @@ Hi This is my first Git repository
 
 ➤ For RestAPI i have used OpenWeather current weather data api (**openweathermap.org**)
 
-➤ Moreover i have applied a basic animation (**UIView.animate()**) for a batter look.
+➤ Moreover i have applied a basic animation (**UIView.animate()**) for a better look.
 
-[ezgif-2-f96918fd1bf4](https://user-images.githubusercontent.com/67689252/123136321-6f14ec80-d470-11eb-8574-ef6d8b350a45.gif)
 
+
+![Real Time Weather](https://user-images.githubusercontent.com/67689252/123136557-b00d0100-d470-11eb-8b30-dfbd5961a88c.gif)
 
 
 Thanks
