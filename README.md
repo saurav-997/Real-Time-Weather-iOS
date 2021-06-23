@@ -10,7 +10,8 @@ Hi This is my first Git repository
 
 ➤ Moreover i have applied a basic animation (**UIView.animate()**) for a batter look.
 
-(https://user-images.githubusercontent.com/67689252/123136218-4bea3d00-d470-11eb-960d-da868d1dd661.gif)
+[ezgif-2-f96918fd1bf4](https://user-images.githubusercontent.com/67689252/123136321-6f14ec80-d470-11eb-8574-ef6d8b350a45.gif)
+
 
 
 Thanks
