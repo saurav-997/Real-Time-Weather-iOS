@@ -11,8 +11,7 @@ Hi This is my first Git repository
 ➤ Moreover i have applied a basic animation (**UIView.animate()**) for a better look.
 
 
-
-![Real Time Weather](https://user-images.githubusercontent.com/67689252/123136557-b00d0100-d470-11eb-8b30-dfbd5961a88c.gif)
+![realtimeweather](https://user-images.githubusercontent.com/67689252/123137046-345f8400-d471-11eb-9574-c4e373b26f5d.gif)
 
 
 Thanks
